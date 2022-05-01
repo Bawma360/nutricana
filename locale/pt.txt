@@ -1,0 +1,20 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_76449483_7C0C_B314_41CF_21B6EA54723A.label = foto 1
+panorama_7610FBD1_7C0C_B534_41C3_391B67B07F3F.label = foto 2
+
+## Skin
+
+### Multiline Text
+HTMLText_70083D29_7C0C_4D14_41D4_D4369756AC5B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Greenhouse After </SPAN></DIV></div>
+HTMLText_77FB2D0A_7C0C_4D14_41C4_3CBC8682C908.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:2.4400000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Greenhouse Before</SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 3
